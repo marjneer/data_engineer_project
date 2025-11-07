@@ -82,7 +82,8 @@ This will generate CSV files in the `outputs/` folder:
 
 ---
 
-##Project Structure
+```
+## Project Structure
 
 DATA_ENGINEER_PROJECT/
 ├── data/
@@ -115,6 +116,7 @@ DATA_ENGINEER_PROJECT/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## ✅ Improvements / Next Steps
 
