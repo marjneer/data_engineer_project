@@ -83,7 +83,7 @@ This will generate CSV files in the `outputs/` folder:
 ---
 
 ```
-## Project Structure
+Project Structure
 
 DATA_ENGINEER_PROJECT/
 ├── data/
